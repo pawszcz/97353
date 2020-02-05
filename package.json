@@ -1,0 +1,13 @@
+{
+    "name": "yoment",
+    "version": "1.0.0",
+    "description": "zaliczenie WSB",
+    "repository": "pawszcz/97353",
+    "main": "index.js",
+    "keywords": [
+        "WSB",
+        "npm",
+        "package",
+        "exam"
+    ]
+}
